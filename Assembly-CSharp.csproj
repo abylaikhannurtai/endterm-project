@@ -60,6 +60,7 @@
      <Compile Include="Assets\scripts\AddPlayerControlledVelocity.cs" />
      <Compile Include="Assets\scripts\CopyPosition.cs" />
      <Compile Include="Assets\scripts\NextLevel.cs" />
+     <Compile Include="Assets\scripts\NextLevel1.cs" />
      <Compile Include="Assets\scripts\RestartLevelOnCollision.cs" />
      <Compile Include="Assets\scripts\RestartLevelWithButton.cs" />
      <None Include="Assets\SimpleLowPolyNature\Readme.txt" />
